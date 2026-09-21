@@ -89,4 +89,18 @@ ASP.NET Core    ████████████████████
 Web API         ████████████████████
 SQL Server      ███████████████████░
 Angular         ████████████████░░░░
-AI / MCP        ██████████████░░░░░░
+AI / MCP        ██████████████░░░░░░    
+
+🔗 Connect With Me
+
+🌐 Portfolio:
+https://jhaavesh.github.io/portfolio/
+
+💼 LinkedIn:
+https://linkedin.com/in/avesh-kumar
+
+💻 GitHub:
+https://github.com/Jhaavesh
+
+📧 Email:
+jhaavesh97@gmail.com
